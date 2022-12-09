@@ -1,0 +1,33 @@
+.titlefont{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a{
+    color: cornflowerblue;
+}
+
+.listfont{
+    font-family: sans-serif;
+}
+
+.linkstyle{
+    color: darkblue;
+}
+
+.fromscratchbg{
+    background-color: bisque;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.mainbody{
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+}
